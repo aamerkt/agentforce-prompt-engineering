@@ -6,7 +6,7 @@ Prompt engineering test using claude in salesforce scenario
 
 **Author:** Aisha Merkt  
 **Date:** May 2026  
-**Context:** Built as part of building AI competency. Explores how prompt quality directly drives customer outcome quality - the same logic that applies when diagnosing underperforming AI agents in production.
+**Context:** Built as part of prompt engineering research. Explores how prompt quality directly drives customer outcome quality - the same logic that applies when diagnosing underperforming AI agents in production.
 
 ---
 
